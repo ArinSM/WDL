@@ -97,7 +97,7 @@ table tr{
 
 
 ul{
-	display: flex;
+	display: table-footer-group;
 	background: #fff;
 	border-radius: 80px;
     padding:15px;
